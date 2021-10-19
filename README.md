@@ -6,3 +6,7 @@ What's included?
 - TailwindCSS
 - TailwindCSS Forms Plugin
 - TailwindCSS Typography Plugin
+
+Todo:
+
+- [ ] Update Tailwind and plugins from Alpha when available
