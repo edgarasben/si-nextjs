@@ -6,6 +6,8 @@ What's included?
 - TailwindCSS
 - TailwindCSS Forms Plugin
 - TailwindCSS Typography Plugin
+- Components
+  - Table
 
 Todo:
 
