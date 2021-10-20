@@ -1,4 +1,7 @@
 {
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -6,15 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.24.0",
     "next": "^11.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "tailwindcss": "^3.0.0-alpha.1",
     "@tailwindcss/forms": "^0.4.0-alpha.1",
     "@tailwindcss/typography": "^0.5.0-alpha.2",
     "autoprefixer": "^10.3.7",
     "postcss": "^8.3.9",
-    "tailwindcss": "^3.0.0-alpha.1"
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
   }
 }
