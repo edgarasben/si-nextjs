@@ -1,4 +1,4 @@
-# Next.js + Tailwind Starter
+# Next.js + Supabase + Tailwind Starter
 
 What's included?
 
