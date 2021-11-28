@@ -80,7 +80,7 @@ export default class MyDocument extends Document {
           <meta name='msapplication-TileColor' content='#ffffff' />
           <meta name='msapplication-TileImage' content='/favicon-144x144.png' />
           <meta name='msapplication-config' content='/browserconfig.xml' />
-          <link rel='manifest' href='/manifest.json' />
+          {/*<link rel='manifest' href='/manifest.json' />*/}
           <meta name='theme-color' content='#ffffff'></meta>
         </Head>
 

@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
-import { supabase } from '../lib/initSupabase'
+//import { supabase } from '../lib/initSupabase'
+import Box from './components/Box'
 
 export default function Index() {
   /* Example: Fetch on the client side
@@ -31,5 +32,5 @@ export default function Index() {
 }
 */
 
-  return 'Hello world!'
+  return 'Hello'
 }
